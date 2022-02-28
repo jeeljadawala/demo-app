@@ -50,3 +50,19 @@ Sometimes you might want to take a look at a specific package and try out some c
 
 That’s where npx comes in.
 
+----
+app.js 
+|
+return (
+    <div className="App">---> className(it is a jsx -javascript syntax extension)
+    |
+    used className because class is a keyword in javascript so it is combination of html and js
+
+using bootstrap (css framework) :https://getbootstrap.com/docs/5.0/getting-started/introduction/
+
+added bootstrap script and css script from bootstrap startertemplate...,navbar
+
+in jsx , we need to add a slash at the closing end of tag if the tag doesnot have closing tag ..eg hr,input
+
+-we can also use bootstrap react : https://react-bootstrap.github.io/components/alerts
+*npm install react-bootstrap bootstrap@5.1.3
