@@ -1,0 +1,52 @@
+-popular lib to make spa 
+-spa: single page app --> load once and other work done by js 
+
+-tool maintained by facebook
+
+-based on component :dividing website into component ---> write once use everywhere
+
+-no use of router
+
+- other notes in project itself projectname : 
+
+- install react dev tools ext in browser
+
+-vs code extensions :thunder client is an alternative to postman , bracket pair colorizer,Auto Rename Tag ,Live server , ES7+ React/Redux/React-Native snippets, prettier -code formatter
+
+-refer doc : https://reactjs.org/docs/hello-world.html
+
+
+npm : package manager helps to install node modules 
+
+npx: helps execute packages without installing packages
+
+-to bring basic folder structure we use command and create app :
+npx create-react-app demo-app
+
+-people interchangably use react lib or react framework ---> known as framework as it competes with angualr 
+
+react doc is also reactapp --> inspect --> components
+
+websites splitted into components -->inceases reusability
+
+changes in app.js ---> reflects in index.html via index.js with the help of div-root
+
+npm start
+
+---------------
+inbuild packages :
+
+react touting dom ---> for routing :transition wout loading
+
+this tutorial requires node
+
+node --version
+npm --version
+npx --version
+
+npm (node package manager) is the dependency/package manager you get out of the box when you install Node.js. It provides a way for developers to install packages both globally and locally.
+
+Sometimes you might want to take a look at a specific package and try out some commands. But you cannot do that without installing the dependencies in your local node_modules folder.
+
+That’s where npx comes in.
+
