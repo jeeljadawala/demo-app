@@ -66,3 +66,6 @@ in jsx , we need to add a slash at the closing end of tag if the tag doesnot hav
 
 -we can also use bootstrap react : https://react-bootstrap.github.io/components/alerts
 *npm install react-bootstrap bootstrap@5.1.3
+
+-propTypes : to impose strict datatype
+-defaultProps :     default value of some var , use in navbar to understand 'title',searchBar

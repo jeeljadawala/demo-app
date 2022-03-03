@@ -7,7 +7,7 @@ import { Footer } from './components/Footer';
 function App() {
   return (
     <>
-    <Header/>
+    <Header  searchBar={true}/>
     <Notes/>
     <Footer/>
     {/* <h3>MyApp</h3> */}
